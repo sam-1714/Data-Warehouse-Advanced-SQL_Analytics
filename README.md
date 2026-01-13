@@ -59,9 +59,3 @@ DATA WAREHOUSE AND ADVANCED SQL ANALYTICS/
 - Delivered automated SQL reports on customer and product performance.  
 
 ---
-
-## 📁 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/DANDUPRANITHASHARONRAJ/Data-Warehouse-Advanced-SQL-Analytics.git
-  ```
